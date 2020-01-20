@@ -5,6 +5,7 @@ In this directory, codes which are related to programming contest are mainly inp
 
 ## atcoder
 Implementaion of [AtCoder](https://atcoder.jp/]) problem.
+(mainly ABC)
 
 ## cpp_snippet
 Code snippet of C++ language.
